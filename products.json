@@ -1,0 +1,45 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "name": "Keyboard",
+      "price": 49.99,
+      "image": "keyboard.png"
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "price": 29.99,
+      "image": "mouse.jpg"
+    },
+    {
+      "id": 3,
+      "name": "headphones",
+      "price": 79.99,
+      "image": "headphones.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Keyboard",
+      "price": 49.99,
+      "image": "keyboard.png",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "price": 29.99,
+      "image": "mouse.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "headphones",
+      "price": 79.99,
+      "image": "headphones.jpg",
+      "quantity": 0
+    }
+  ]
+}
